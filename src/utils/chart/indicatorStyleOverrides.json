@@ -1,0 +1,8 @@
+module.exports = {"bollinger bands.median.color":"#d13234","bollinger bands.median.linewidth":2,"bollinger bands.upper.color":"#1cb4b4","bollinger bands.lower.color":"#1cb4b4","bollinger bands.Plots Background.color":"#1cb4b4","bollinger bands.Plots Background.opacity":0.5,"bollinger bands.upper.linewidth":2,"bollinger bands.lower.linewidth":2,"rsi.plot.color":"#ff6600","rsi.plot.linewidth":2,"rsi.UpperLimit.visible":false,"rsi.LowerLimit.visible":false,"rsi.Hlines Background.visible":false,"macd.Histogram.color":"#1cb4b4","macd.Histogram.linewidth":2,"macd.macd.color":"#0089ff","macd.macd.linewidth":2,"macd.signal.color":"#ff5e04","macd.signal.linewidth":2}
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/utils/chart/indicatorStyleOverrides.json
+// module id = 607
+// module chunks = 0
